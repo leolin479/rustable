@@ -1,1 +1,1 @@
-# rustable
+# rustable - darktable in Rust
